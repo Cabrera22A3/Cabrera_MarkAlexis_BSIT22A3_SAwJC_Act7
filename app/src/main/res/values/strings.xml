@@ -14,26 +14,26 @@
   ~ limitations under the License.
   -->
 <resources>
-    <string name="app_name">Cabrera_MarkAlexis_BSIT22A3_SAwJC_Act7</string>
-    <string name="dog_name_1">Koda</string>
-    <string name="dog_name_2">Lola</string>
-    <string name="dog_name_3">Frankie</string>
-    <string name="dog_name_4">Nox</string>
-    <string name="dog_name_5">Faye</string>
-    <string name="dog_name_6">Bella</string>
-    <string name="dog_name_7">Moana</string>
-    <string name="dog_name_8">Tzeitel</string>
-    <string name="dog_name_9">Leroy</string>
-    <string name="dog_description_1">Eating treats on the terrace</string>
-    <string name="dog_description_2">Barking at Daddy</string>
-    <string name="dog_description_3">Stealing socks</string>
-    <string name="dog_description_4">Meeting new animals</string>
-    <string name="dog_description_5">Digging in the garden</string>
-    <string name="dog_description_6">Chasing sea foam</string>
-    <string name="dog_description_7">Bothering her paw-rents</string>
-    <string name="dog_description_8">Sunbathing</string>
-    <string name="dog_description_9">Sleeping in dangerous places</string>
-    <string name="about">About:</string>
+    <string name="app_name">MLBB Hero App</string>
+    <string name="dog_name_1">Atlas</string>
+    <string name="dog_name_2">Lolita</string>
+    <string name="dog_name_3">Franco</string>
+    <string name="dog_name_4">Minotaur</string>
+    <string name="dog_name_5">Johnson</string>
+    <string name="dog_name_6">Akai</string>
+    <string name="dog_name_7">Mathilda</string>
+    <string name="dog_name_8">Terizla</string>
+    <string name="dog_name_9">Chou</string>
+    <string name="dog_description_1">Can set multiple enemies from the use of chains.</string>
+    <string name="dog_description_2">Can stun enemies using her hammer.</string>
+    <string name="dog_description_3">Can hook enemies or creeps from far.</string>
+    <string name="dog_description_4">Can rage and set enemies within a specific area.</string>
+    <string name="dog_description_5">Can use his ult to drive and roam around the map.</string>
+    <string name="dog_description_6">Can spin around and push its enemies.</string>
+    <string name="dog_description_7">Can fly and bump into enemies.</string>
+    <string name="dog_description_8">By using it ultimate, he casts chains into them.</string>
+    <string name="dog_description_9">Can kick enemies and do freestyles.</string>
+    <string name="about">Skill Description:</string>
     <string name="years_old">%d years old</string>
-    <string name="expand_button_content_description">See more or less information about a dog.</string>
+    <string name="expand_button_content_description">See more or less information about a heroes.</string>
 </resources>
